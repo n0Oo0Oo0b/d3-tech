@@ -10,7 +10,3 @@ Shared repository for the D3 Tech CCA
     - Homework/assignment help
         - No assessments
     - Ask/answer general questions
-
-test commit
-
-amogus
